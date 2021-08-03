@@ -1,7 +1,5 @@
 ## Olá, eu sou o André! 
 
-
-
  <div>
   <a href="https://github.com/AndreDrummer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreDrummer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,7 +14,7 @@
   <img align="center" alt="André-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="André-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="André-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="André-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="André-PHP" height="30" width="40" src="https://user-images.githubusercontent.com/36930816/128073221-5ee898e3-9555-44ec-890f-64ca5a2e493c.png">
   <img align="center" alt="André-Kotlin" height="30" width="40" src="https://user-images.githubusercontent.com/36930816/128072780-4418617f-2f13-4449-ac81-d459f2cccc86.png">   
 </div>
   
