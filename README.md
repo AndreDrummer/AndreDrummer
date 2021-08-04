@@ -1,4 +1,6 @@
-## Olá, eu sou o André! 
+![Git Hub](https://user-images.githubusercontent.com/36930816/128203834-87dcf491-dabc-4151-949c-42951fcd9abc.png)
+## Olá, eu sou o André!
+
 
  <div>
   <a href="https://github.com/AndreDrummer">
