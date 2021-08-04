@@ -1,4 +1,5 @@
-![Git Hub](https://user-images.githubusercontent.com/36930816/128203834-87dcf491-dabc-4151-949c-42951fcd9abc.png)
+![Git Hub (1)](https://user-images.githubusercontent.com/36930816/128204188-66fdfab4-4d7c-424e-9a3a-3cd035fde4e0.png)
+
 ## Olá, eu sou o André!
 
 
