@@ -6,6 +6,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreDrummer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreDrummer&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<div>
+ <h2>Conheça meu aplicativo para Adoção e doação de PET's</h2>
+ <p><a href="">Tiu, Tiu</a> é um aplicativo que desenvolvi utilizando Flutter e firebase basicamente. Utilizei os recursos de push notifications, functions, storage, firestore e vários outros. Antes de começar a desenvolver este aplicativo eu prototipei todo ele no Figma. Este aplicaitvo não está com código público ainda.</p>
+</div>
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="André-Flutter" height="30" width="40" src="https://user-images.githubusercontent.com/36930816/128072587-51be9299-a6d5-4312-b074-ec10f1db4669.png">  
