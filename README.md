@@ -9,7 +9,7 @@
 
 <div>
  <h2>Conheça meu aplicativo para Adoção e doação de PET's</h2>
- <p><a href="">Tiu, Tiu</a> é um aplicativo que desenvolvi utilizando Flutter e firebase basicamente. Utilizei os recursos de push notifications, functions, storage, firestore e vários outros. Antes de começar a desenvolver este aplicativo eu prototipei todo ele no Figma. Este aplicaitvo não está com código público ainda.</p>
+ <p><a href="https://play.google.com/store/apps/details?id=com.anjasolutions.tiutiu&hl=pt_BR&gl=US">Tiu, Tiu</a> é um aplicativo que desenvolvi utilizando Flutter e firebase basicamente. Utilizei os recursos de push notifications, functions, storage, firestore e vários outros. Antes de começar a desenvolver este aplicativo eu prototipei todo ele no Figma. Este aplicaitvo não está com código público ainda.</p>
 </div>
 
 <div style="display: inline_block"><br>
