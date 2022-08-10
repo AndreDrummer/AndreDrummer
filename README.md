@@ -6,13 +6,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreDrummer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreDrummer&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+&nbsp; &nbsp; &nbsp;
 
 <div>
   <h2>Conheça meu aplicativo para Adoção e doação de PET's</h2>
  <p><a href="https://play.google.com/store/apps/details?id=com.anjasolutions.tiutiu&hl=pt_BR&gl=US"><img align="left" src="assets/newLogo.png" width="100" height="100"/> Tiu, Tiu</a> é um aplicativo que desenvolvi utilizando Flutter e firebase basicamente. Utilizei os recursos de push notifications, functions, storage, firestore e vários outros. Antes de começar a desenvolver este aplicativo eu prototipei todo ele no Figma. Este aplicaitvo não está com código público ainda.</p>
 </div>
  
- &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;
 
 <div style="display: inline_block"><br>
   
