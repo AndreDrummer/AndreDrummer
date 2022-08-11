@@ -25,7 +25,8 @@
 
 <h2>Linguagens e ferramentas com quê trabalho</h2>
 
-![stack](https://user-images.githubusercontent.com/36930816/184158507-4a976c91-24a7-444c-ba63-252132bce573.png)
+![stack2](https://user-images.githubusercontent.com/36930816/184163760-72c523fb-1ed4-4381-8877-aa4f224c7614.png)
+
 
  
  <h2>Entre em contato comigo</h2>
