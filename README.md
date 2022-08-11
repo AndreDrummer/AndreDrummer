@@ -17,7 +17,7 @@
 &nbsp; &nbsp; &nbsp;
  
 <div>
-  <h2>Meu artigos no Medium</h2>
+  <h2>Meus artigos no Medium</h2>
  <p> Eu mantenho um perfil no <a href="https://medium.com/@andrfelipedrummer"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="100" height="100"/>Medium</a> onde eu publico alguns artigos resultados de pesquisas e estudos sobre vários assuntos desde tuturiais de programção em Flutter, UX Designer, Testes Automatizados e Machine Learning. Não sou muito ativo por lá, mas sempre que posso faço uma publicação de qualidade e com bastante informação!</p>
 </div>
  
