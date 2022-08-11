@@ -25,7 +25,8 @@
 
 <h2>Linguagens e ferramentas com quê trabalho</h2>
 
-| ![Flutter Logo]("https://user-images.githubusercontent.com/36930816/128072587-51be9299-a6d5-4312-b074-ec10f1db4669.png") Flutter  |
+| ![flogo](https://user-images.githubusercontent.com/36930816/184154216-f83b058e-91c6-4c92-a289-764114a30918.png)
+ Flutter  |
 | --------- | 
  
 <div style="display: flex; align: center">
