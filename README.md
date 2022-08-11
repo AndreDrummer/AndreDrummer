@@ -31,7 +31,7 @@
  <h2>Entre em contato comigo</h2>
  
   <a href = "mailto:anprofelipe@"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andre-mobile-developer/" target="_blank">![linkedin-logo 1](https://user-images.githubusercontent.com/36930816/184161159-d8b408aa-ca1f-473e-ac1f-6534c4280ae8.png)
+  <a href="https://www.linkedin.com/in/andre-mobile-developer/" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a> 
  
  
