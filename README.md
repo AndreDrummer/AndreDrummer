@@ -28,11 +28,13 @@
 ![stack](https://user-images.githubusercontent.com/36930816/184158507-4a976c91-24a7-444c-ba63-252132bce573.png)
 
  
- <h2>Contato</h2>
+ <h2>Entre em contato comigo</h2>
  
   <a href = "mailto:anprofelipe@"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andre-mobile-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AndreDrummer/AndreDrummer/blob/output/github-contribution-grid-snake.svg)
+ 
+ <h2> Frequência de commits</h2>
+![Snake animation](https://github.com/AndreDrummer/AndreDrummer/blob/output/github-contribution-grid-snake.svg)
  
 </div>
