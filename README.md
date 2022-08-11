@@ -25,8 +25,8 @@
 
 <h2>Linguagens e ferramentas com quê trabalho</h2>
 
-| ![flogo](https://user-images.githubusercontent.com/36930816/184154216-f83b058e-91c6-4c92-a289-764114a30918.png) Flutter |
-| --------- | 
+| ![flogo](https://user-images.githubusercontent.com/36930816/184154216-f83b058e-91c6-4c92-a289-764114a30918.png) Flutter | ![André-Dart](https://user-images.githubusercontent.com/36930816/128072659-3f2ea617-74a9-45e9-9aab-6133c66ebbd6.png) Dart |
+| --------- | | --------- | 
  
 <div style="display: flex; align: center">
     <div style="display: table"><br>
