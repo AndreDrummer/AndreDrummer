@@ -23,19 +23,56 @@
  
 &nbsp; &nbsp; &nbsp;
 
-<h2>Linguagens que trabalho</h2>
-<div style="display: inline_block"><br>
+<h2>Linguagens e ferramentas com quê trabalho</h2>
  
-  
-  <img align="center" alt="André-Flutter" height="30" width="40" src="https://user-images.githubusercontent.com/36930816/128072587-51be9299-a6d5-4312-b074-ec10f1db4669.png">  
-  <img align="center" alt="André-Dart" height="30" width="40" src="https://user-images.githubusercontent.com/36930816/128072659-3f2ea617-74a9-45e9-9aab-6133c66ebbd6.png"> 
-  <img align="center" alt="André-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="André-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="André-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="André-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="André-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="André-PHP" height="30" width="40" src="https://user-images.githubusercontent.com/36930816/128073221-5ee898e3-9555-44ec-890f-64ca5a2e493c.png">
-  <img align="center" alt="André-Kotlin" height="30" width="40" src="https://user-images.githubusercontent.com/36930816/128072780-4418617f-2f13-4449-ac81-d459f2cccc86.png">   
+<div style="display: flex; align: center">
+    <div style="display: table"><br>
+        <img align="center" alt="André-Flutter" height="30" width="40"
+            src="https://user-images.githubusercontent.com/36930816/128072587-51be9299-a6d5-4312-b074-ec10f1db4669.png">
+        <p>&nbsp;Flutter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+    </div>
+    <div style="display: table"><br>
+        <img align="center" alt="André-Dart" height="30" width="40"
+            src="https://user-images.githubusercontent.com/36930816/128072659-3f2ea617-74a9-45e9-9aab-6133c66ebbd6.png">
+        <p>&nbsp;Dart&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+    </div>
+    <div style="display: table"><br>
+        <img align="center" alt="André-React" height="30" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        <p>&nbsp;React&nbsp;&nbsp;&nbsp;</p>
+    </div>
+    <div style="display: table"><br>
+    &nbsp;&nbsp;&nbsp;
+        <img align="center" alt="André-Js" height="30" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <p>&nbsp;JavaScript&nbsp;&nbsp;</p>
+    </div>
+    <div style="display: table"><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" alt="André-Ts" height="30" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        <p>&nbsp;TypeScript&nbsp;&nbsp;&nbsp;</p>
+    </div>
+    <div style="display: table"><br>
+        <img align="center" alt="André-HTML" height="30" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <p>&nbsp;HTML5&nbsp;&nbsp;&nbsp;</p>
+    </div>
+    <div style="display: table"><br>
+        <img align="center" alt="André-CSS" height="30" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <p>&nbsp;CSS3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+    </div>
+    <div style="display: table"><br>
+        <img align="center" alt="André-PHP" height="30" width="40"
+            src="https://user-images.githubusercontent.com/36930816/128073221-5ee898e3-9555-44ec-890f-64ca5a2e493c.png">
+        <p>&nbsp;PHP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+    </div>
+    <div style="display: table"><br>
+        <img align="center" alt="André-Kotlin" height="30" width="30"
+            src="https://user-images.githubusercontent.com/36930816/128072780-4418617f-2f13-4449-ac81-d459f2cccc86.png">
+        <p>&nbsp;Kotlin&nbsp;</p>
+    </div>
 </div>
   
   ##
