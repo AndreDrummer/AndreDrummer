@@ -25,8 +25,8 @@
 
 <h2>Linguagens e ferramentas com quê trabalho</h2>
 
-| ![flogo](https://user-images.githubusercontent.com/36930816/184154216-f83b058e-91c6-4c92-a289-764114a30918.png) Flutter | ![André-Dart](https://user-images.githubusercontent.com/36930816/128072659-3f2ea617-74a9-45e9-9aab-6133c66ebbd6.png) Dart |
-| --------- | --------- | 
+| [André-Flutter](https://user-images.githubusercontent.com/36930816/128072587-51be9299-a6d5-4312-b074-ec10f1db4669.png) Flutter | [André-Dart](https://user-images.githubusercontent.com/36930816/128072659-3f2ea617-74a9-45e9-9aab-6133c66ebbd6.png) Dart | [André-React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React | [André-Js](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg) JavaScript | [André-Ts](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg) TypeScript | [André-HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML5 |[André-CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS3 | [André-PHP](https://user-images.githubusercontent.com/36930816/128073221-5ee898e3-9555-44ec-890f-64ca5a2e493c.png) PHP | [André-Kotlin](https://user-images.githubusercontent.com/36930816/128072780-4418617f-2f13-4449-ac81-d459f2cccc86.png) Kotlin |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
  
 <div style="display: flex; align: center">
     <div style="display: table"><br>
