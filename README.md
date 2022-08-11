@@ -31,7 +31,7 @@
  <h2>Entre em contato comigo</h2>
  
   <a href = "mailto:anprofelipe@"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andre-mobile-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/andre-mobile-developer/" target="_blank"><img src="h[ttps://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://pixabay.com/pt/vectors/ligado-em-logotipo-companhia-2668700/)" target="_blank"></a> 
  
  
  <h2> Frequência de commits</h2>
