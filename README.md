@@ -35,6 +35,7 @@
  
  
  <h2> Frequência de commits</h2>
-  ![Snake animation](https://github.com/AndreDrummer/AndreDrummer/blob/output/github-contribution-grid-snake.svg)
+ 
+ ![Snake animation](https://github.com/AndreDrummer/AndreDrummer/blob/output/github-contribution-grid-snake.svg)
  
 </div>
