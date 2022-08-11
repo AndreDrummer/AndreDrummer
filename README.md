@@ -24,10 +24,6 @@
 &nbsp; &nbsp; &nbsp;
 
 <h2>Linguagens e ferramentas com quê trabalho</h2>
- | Header 1  | Header 2            | Header 3  |
-| --------- | ------------------- | --------- |
-| Some data | Cell 2              | Cell 3    | Ignored | Ignored |
-| data      | Some long data here | more data | 
  
 <div style="display: flex; align: center">
     <div style="display: table"><br>
