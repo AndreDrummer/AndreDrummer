@@ -23,7 +23,9 @@
  
 &nbsp; &nbsp; &nbsp;
 
+<h2>Linguagens que trabalho</h2>
 <div style="display: inline_block"><br>
+ 
   
   <img align="center" alt="André-Flutter" height="30" width="40" src="https://user-images.githubusercontent.com/36930816/128072587-51be9299-a6d5-4312-b074-ec10f1db4669.png">  
   <img align="center" alt="André-Dart" height="30" width="40" src="https://user-images.githubusercontent.com/36930816/128072659-3f2ea617-74a9-45e9-9aab-6133c66ebbd6.png"> 
