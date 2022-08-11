@@ -16,7 +16,7 @@
 
 <div>
   <h2>Meu artigos no Medium</h2>
- <p> Eu mantenho um perfil no <a href="https://cdn-icons-png.flaticon.com/512/5968/5968885.png"><img align="left" src="https://medium.com/" width="100" height="100"/>Medium</a> onde eu publico alguns artigos resultados de pesquisas e estudos sobre vários assuntos desde Testes Automatizados a Machine Learning. <a href="">Confira.</a></p>
+ <p> Eu mantenho um perfil no <a href="https://medium.com/@andrfelipedrummer"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="100" height="100"/>Medium</a> onde eu publico alguns artigos resultados de pesquisas e estudos sobre vários assuntos desde Testes Automatizados a Machine Learning. <a href="">Confira.</a></p>
 </div>
  
 &nbsp; &nbsp; &nbsp;
