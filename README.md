@@ -1,4 +1,4 @@
-## Olá, eu sou o André!
+## Hey there, André in the voice!
 
 
  <div>
@@ -11,7 +11,7 @@
 
 <div>
   <h2>Conheça meu aplicativo para Adoção e doação de PET's</h2>
- <p><a href="https://play.google.com/store/apps/details?id=com.anjasolutions.tiutiu&hl=pt_BR&gl=US"><img align="left" src="https://play-lh.googleusercontent.com/vKhzQDu77_d9-dXOSU6dNcgldCxO8IPphFWJSnnhv66bEZ6ZTUJGETmkFhbjHd92KQJK=w480-h960-rw" width="100" height="100"/>Tiu, tiu - Adoção e doação</a> é um aplicativo que desenvolvi utilizando Flutter e firebase basicamente. Utilizei os recursos de push notifications, functions, storage, firestore e vários outros. Antes de começar a desenvolver este aplicativo eu prototipei todo ele no Figma. Ele não está com código público ainda e atualmente está disponível apenas para Android, mas neste segundo semestre de 2022 estou trabalhando em uma atualização onde irei lançar a versão iOS na Apple Store.</p>
+ <p><a href="https://play.google.com/store/apps/details?id=com.anjasolutions.tiutiu&hl=pt_BR&gl=US"><img align="left" src="https://play-lh.googleusercontent.com/vKhzQDu77_d9-dXOSU6dNcgldCxO8IPphFWJSnnhv66bEZ6ZTUJGETmkFhbjHd92KQJK=w480-h960-rw" width="100" height="100"/>Tiu, tiu - Adoção e doação</a> is an application that I developed using Flutter and firebase basically. I used the features of push notifications, functions, storage, firestore and several others. Before starting to develop this application I prototyped all of it in Figma. It is not publicly coded yet and is currently only available for Android, but in the second half of 2022 I am working on an update where I will release the iOS version on the Apple Store.</p>
 </div>
  
 &nbsp; &nbsp; &nbsp;
