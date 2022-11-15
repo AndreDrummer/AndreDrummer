@@ -1,4 +1,4 @@
-## Hey there, André in the voice!
+## Hey there, André on voice!
 
 
  <div>
@@ -10,7 +10,7 @@
 &nbsp; &nbsp; &nbsp;
 
 <div>
-  <h2>Conheça meu aplicativo para Adoção e doação de PET's</h2>
+  <h2>Get into my Pets Donation and Adoption app</h2>
  <p><a href="https://play.google.com/store/apps/details?id=com.anjasolutions.tiutiu&hl=pt_BR&gl=US"><img align="left" src="https://play-lh.googleusercontent.com/vKhzQDu77_d9-dXOSU6dNcgldCxO8IPphFWJSnnhv66bEZ6ZTUJGETmkFhbjHd92KQJK=w480-h960-rw" width="100" height="100"/>Tiu, tiu - Adoção e doação</a> is an application that I developed using Flutter and firebase basically. I used the features of push notifications, functions, storage, firestore and several others. Before starting to develop this application I prototyped all of it in Figma. It is not publicly coded yet and is currently only available for Android, but in the second half of 2022 I am working on an update where I will release the iOS version on the Apple Store.</p>
 </div>
  
@@ -24,7 +24,7 @@
 &nbsp; &nbsp; &nbsp;
  
 <div>
-  <h2>Meus artigos no Medium</h2>
+  <h2>My articles on Medium</h2>
  <p> Eu mantenho um perfil no <a href="https://medium.com/@andrfelipedrummer"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="100" height="100"/>Medium</a> onde eu publico alguns artigos resultados de pesquisas e estudos sobre vários assuntos desde tutoriais de programação em Flutter a UX Designer, Testes Automatizados e Machine Learning. Não sou muito ativo por lá, mas sempre que posso faço uma publicação de qualidade e com bastante informação! A mais recente é essa <a href="https://medium.com/@andrfelipedrummer/testando-aplicativos-flutter-1a29d096a5da">Testando aplicativos Flutter</a>.</p>
 </div>
  
