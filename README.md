@@ -25,7 +25,7 @@
  
 <div>
   <h2>My articles on Medium</h2>
- <p> Eu mantenho um perfil no <a href="https://medium.com/@andrfelipedrummer"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="100" height="100"/>Medium</a> onde eu publico alguns artigos resultados de pesquisas e estudos sobre vários assuntos desde tutoriais de programação em Flutter a UX Designer, Testes Automatizados e Machine Learning. Não sou muito ativo por lá, mas sempre que posso faço uma publicação de qualidade e com bastante informação! A mais recente é essa <a href="https://medium.com/@andrfelipedrummer/testando-aplicativos-flutter-1a29d096a5da">Testando aplicativos Flutter</a>.</p>
+ <p>I keep a profile on <a href="https://medium.com/@andrfelipedrummer"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="100" height="100"/>Medium</a> where I publish some articles resulting from research and studies on various subjects from programming tutorials in Flutter to UX Designer, Automated Testing and Machine Learning. I'm not very active there, but whenever I can I make a quality publication with a lot of information! The most recent one is this <a href="https://medium.com/@andrfelipedrummer/testando-aplicativos-flutter-1a29d096a5da">Testando aplicativos Flutter</a>.</p>
 </div>
  
 &nbsp; &nbsp; &nbsp;
