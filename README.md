@@ -33,14 +33,6 @@
 <h2>Languages and tools I work with</h2>
 
 ![stack2](https://user-images.githubusercontent.com/36930816/184163760-72c523fb-1ed4-4381-8877-aa4f224c7614.png)
-
-
- 
- <h2>Reach me out</h2>
- 
-  <a href = "mailto:anprofelipe@"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andre-mobile-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
  
  
  <h2>Commits frequency</h2>
