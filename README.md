@@ -23,7 +23,7 @@
 
 <div>
   <h2>FSecret - Amigo Secreto Oculto</h2>
- <p>Available on <a href="https://play.google.com/store/apps/details?id=br.com.fsecret&hl=pt"><img align="left" src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a5/1e/93/a51e9395-e45a-7982-003e-a222da9bb45b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="100" height="100"/>Play Store</a> and <a href="https://apps.apple.com/br/app/fsecret-amigo-secreto-oculto/id6473738577"> Apple Store</a> Amigo Secreto ou Oculto Online e a distância. Experimente a alegria de presentear e as surpresas secretas com nosso novo app de Amigo Secreto! Conecte-se com amigos, compartilhe a empolgação e espalhe a alegria das festas.</p>
+ <p>Available on <a href="https://play.google.com/store/apps/details?id=br.com.fsecret&hl=pt"><img align="left" src="https://play-lh.googleusercontent.com/b-qn7ZvZewxM8TCHvO2QLYgw5_ln13rh0C2-YnnGdfn08ulaJXlcGwBwXyRUJbDLiiv9=w240-h480-rw" width="100" height="100"/>Play Store</a> and <a href="https://apps.apple.com/br/app/fsecret-amigo-secreto-oculto/id6473738577"> Apple Store</a> Amigo Secreto ou Oculto Online e a distância. Experimente a alegria de presentear e as surpresas secretas com nosso novo app de Amigo Secreto! Conecte-se com amigos, compartilhe a empolgação e espalhe a alegria das festas.</p>
 </div>
  
 &nbsp; &nbsp; &nbsp;
