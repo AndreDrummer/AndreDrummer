@@ -11,7 +11,7 @@
 
 <div>
   <h2>Get into my Pets Donation and Adoption app</h2>
- <p><a href="https://github.com/AndreDrummer/tiutiu"><img align="left" src="https://github.com/user-attachments/assets/d6bef23f-dd91-4f04-bf8b-5ea463a65738" width="100" height="100"/>Tiu, tiu - Adoção e doação</a> is an application that I developed using Flutter and firebase basically. I used the features of push notifications, functions, storage, firestore and several others. Before starting to develop this application I prototyped all of it in Figma. It is not publicly coded yet and is currently only available for Android, but in the second half of 2022 I am working on an update where I will release the iOS version on the Apple Store.</p>
+ <p><a href="https://github.com/AndreDrummer/tiutiu/blob/main/readme-en-us.md"><img align="left" src="https://github.com/user-attachments/assets/d6bef23f-dd91-4f04-bf8b-5ea463a65738" width="100" height="100"/>Tiu, tiu - Adoção e doação</a> is an application that I developed using Flutter and firebase basically. I used the features of push notifications, functions, storage, firestore and several others. Before starting to develop this application I prototyped all of it in Figma. It is not publicly coded yet and is currently only available for Android, but in the second half of 2022 I am working on an update where I will release the iOS version on the Apple Store.</p>
 </div>
  
 &nbsp; &nbsp; &nbsp;
