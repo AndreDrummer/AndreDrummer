@@ -18,7 +18,7 @@
 
 <div>
   <h2>Boi Certo</h2>
- <p>Available on <a href="https://play.google.com/store/apps/details?id=com.anjasolutions.boicerto"><img align="left" src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a5/1e/93/a51e9395-e45a-7982-003e-a222da9bb45b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="100" height="100"/>Play Store</a> and <a href="https://apps.apple.com/br/app/boi-certo/id1607695295"> Apple Store</a> Boi Certo is another app I developed for a client recently. It is intended for marketing agricultural inputs such as cattle, land, machinery, etc. The app contains an auction tab where interested parties can check the upcoming auctions in all cities in Brazil and also has a quotation tab where it always shows updated data such as the price of Boi Gordo, Soybean, and other commodities.</p>
+ <p>Boi Certo is another app I developed for a client recently. It is intended for marketing agricultural inputs such as cattle, land, machinery, etc. The app contains an auction tab where interested parties can check the upcoming auctions in all cities in Brazil and also has a quotation tab where it always shows updated data such as the price of Boi Gordo, Soybean, and other commodities.</p>
 </div>
 
 <div>
